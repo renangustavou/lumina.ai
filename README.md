@@ -1,4 +1,3 @@
-![unnamed](https://github.com/user-attachments/assets/89cb84cc-f4b4-4dee-b697-0a0459c31031)### lumina.ai
 🛡️ **Lumina: Detecção Inteligente de Golpes com Gemini AI** 👵➡️🧑‍💻
 
 ## 💡 Visão Geral
