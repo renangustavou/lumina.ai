@@ -1,4 +1,4 @@
-🛡️ **Lumina: Detecção Inteligente de Golpes com Gemini AI** 👵➡️🧑‍💻
+💡 **Lumina: Detecção Inteligente de Golpes com Gemini AI** 👵➡️🧑‍💻
 
 ## 💡 Visão Geral
 
@@ -6,9 +6,9 @@ Lumina utiliza a IA do 🧠 **Google Gemini** para analisar mensagens e alertar 
 
 ## ✨ Funcionalidades
 
-* 🔍 **Análise Inteligente:** Identifica padrões de golpes.
-* 🚨 **Alertas:** Notifica em tempo real sobre ameaças.
-* 🎯 **Recomendações:** Oferece orientações claras.
+🔍 **Análise Inteligente:** Identifica padrões de golpes.
+🚨 **Alertas:** Notifica em tempo real sobre ameaças.
+🎯 **Recomendações:** Oferece orientações claras.
 
 ## ⚙️ Tecnologias
 
