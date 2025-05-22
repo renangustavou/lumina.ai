@@ -21,16 +21,24 @@ Lumina utiliza a IA do 🧠 **Google Gemini** para analisar mensagens e alertar 
 
 ### 💻 Preparação no Colab
 
-1.  **Baixe o arquivo do sistema Lumina** (O arquivo `.ipynb`).
-2.  **Abra o arquivo no** <img src="https://colab.research.google.com/img/colab_favicon.ico" alt="Google Colab" width="20"> **Google Colab**.
+1. **Baixe o arquivo do sistema Lumina** (O arquivo `.ipynb`).
+2. **Abra o arquivo no** <img src="https://colab.research.google.com/img/colab_favicon.ico" alt="Google Colab" width="20"> **Google Colab**.
 
 ### ▶️ Execução no Colab
 
-1.  No notebook aberto, **execute cada célula de código** sequencialmente, clicando no botão de "play" (▶️) ao lado de cada célula ou usando o atalho `Shift + Enter`.
-2.  **Acompanhe as instruções** e interaja com o sistema conforme as saídas de cada célula.
+1. No notebook aberto, **execute cada célula de código** sequencialmente, clicando no botão de "play" (▶️) ao lado de cada célula ou usando o atalho `Shift + Enter`.
+2. **Acompanhe as instruções** e interaja com o sistema conforme as saídas de cada célula.
+
+---
+
+Este projeto foi premiado em nono lugar entre mais de 918 projetos! 🏆
+
+---
 
 ## 🙏 Agradecimentos
 
-* Google (IA Gemini)
+* <img src="https://blog.google/static/images/social/google_logo.jpg" alt="Logo do Google" width="100"/>
+(IA Gemini)
 * Comunidade de desenvolvedores
-* Alura (Imersão IA)
+* <img src="https://www.alura.com.br/assets/img/alura-logo.svg" alt="Logo da Alura" width="100"/>
+(Imersão IA)
