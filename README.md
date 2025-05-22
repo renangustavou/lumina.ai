@@ -1,4 +1,4 @@
-### lumina.ai
+![unnamed](https://github.com/user-attachments/assets/89cb84cc-f4b4-4dee-b697-0a0459c31031)### lumina.ai
 🛡️ **Lumina: Detecção Inteligente de Golpes com Gemini AI** 👵➡️🧑‍💻
 
 ## 💡 Visão Geral
@@ -37,8 +37,6 @@ Este projeto foi premiado em nono lugar entre mais de 918 projetos! 🏆
 
 ## 🙏 Agradecimentos
 
-* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/2560px-Google_Gemini_logo.svg.png" alt="Logo do Google" width="100"/>
-(IA Gemini)
-* Comunidade de desenvolvedores
-* <img src="https://www.alura.com.br/assets/img/alura-logo.svg" alt="Logo da Alura" width="100"/>
-(Imersão IA)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/2560px-Google_Gemini_logo.svg.png" alt="Logo Gemini" width="100"/>
+<img src="https://www.alura.com.br/assets/img/alura-logo.svg" alt="Logo da Alura" width="100"/>
+<img src="https://pngimg.com/d/google_PNG19644.png" alt="Logo Google" width="100"/>
