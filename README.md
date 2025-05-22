@@ -36,6 +36,6 @@ Este projeto foi premiado em nono lugar entre mais de 918 projetos! 🏆
 
 ## 🙏 Agradecimentos
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/2560px-Google_Gemini_logo.svg.png" alt="Logo Gemini" width="100"/>
-<img src="https://www.alura.com.br/assets/img/alura-logo.svg" alt="Logo da Alura" width="100"/>
-<img src="https://www.vectorlogo.zone/logos/google/google-ar21.svg" alt="Logo Google" width="100"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/2560px-Google_Gemini_logo.svg.png" alt="Logo Gemini" width="200"/>
+<img src="https://www.alura.com.br/assets/img/alura-logo.svg" alt="Logo da Alura" width="200"/>
+<img src="https://www.vectorlogo.zone/logos/google/google-ar21.svg" alt="Logo Google" width="200"/>
