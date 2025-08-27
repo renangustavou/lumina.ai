@@ -34,7 +34,7 @@ Este projeto foi premiado em nono lugar entre mais de 918 projetos! 🏆
 
 ---
 
-## 🙏 Agradecimentos
+# 🙏 Agradecimentos
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/2560px-Google_Gemini_logo.svg.png" alt="Logo Gemini" width="100"/> 
 
